@@ -16,4 +16,4 @@ function generarDominio () {
 
 }
 
-generarDominio ();
+generarDominio ();git remote set-url origin <your new url>
